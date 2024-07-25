@@ -1,0 +1,118 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\ofir\\School\\computerSience\\AppZicaron\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5AA5A3F8-EC70-4822-9F9B-92B815D7A277}|AppZicaron\\AppZicaron.csproj|c:\\ofir\\school\\computersience\\appzicaron\\appzicaron\\gameactivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AA5A3F8-EC70-4822-9F9B-92B815D7A277}|AppZicaron\\AppZicaron.csproj|solutionrelative:appzicaron\\gameactivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AA5A3F8-EC70-4822-9F9B-92B815D7A277}|AppZicaron\\AppZicaron.csproj|C:\\ofir\\School\\computerSience\\AppZicaron\\appzicaron\\indexablebutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AA5A3F8-EC70-4822-9F9B-92B815D7A277}|AppZicaron\\AppZicaron.csproj|solutionrelative:appzicaron\\indexablebutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AA5A3F8-EC70-4822-9F9B-92B815D7A277}|AppZicaron\\AppZicaron.csproj|C:\\ofir\\School\\computerSience\\AppZicaron\\appzicaron\\mainactivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AA5A3F8-EC70-4822-9F9B-92B815D7A277}|AppZicaron\\AppZicaron.csproj|solutionrelative:appzicaron\\mainactivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AA5A3F8-EC70-4822-9F9B-92B815D7A277}|AppZicaron\\AppZicaron.csproj|C:\\ofir\\School\\computerSience\\AppZicaron\\appzicaron\\resources\\layout\\game_layout.axml||{A4B51DF8-501B-45AD-A022-1A0D18A2B7B0}",
+      "RelativeMoniker": "D:0:0:{5AA5A3F8-EC70-4822-9F9B-92B815D7A277}|AppZicaron\\AppZicaron.csproj|solutionrelative:appzicaron\\resources\\layout\\game_layout.axml||{A4B51DF8-501B-45AD-A022-1A0D18A2B7B0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AA5A3F8-EC70-4822-9F9B-92B815D7A277}|AppZicaron\\AppZicaron.csproj|C:\\ofir\\School\\computerSience\\AppZicaron\\appzicaron\\position.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AA5A3F8-EC70-4822-9F9B-92B815D7A277}|AppZicaron\\AppZicaron.csproj|solutionrelative:appzicaron\\position.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Position.cs",
+              "DocumentMoniker": "C:\\ofir\\School\\computerSience\\AppZicaron\\AppZicaron\\Position.cs",
+              "RelativeDocumentMoniker": "AppZicaron\\Position.cs",
+              "ToolTip": "C:\\ofir\\School\\computerSience\\AppZicaron\\AppZicaron\\Position.cs",
+              "RelativeToolTip": "AppZicaron\\Position.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T17:23:46.814Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IndexableButton.cs",
+              "DocumentMoniker": "C:\\ofir\\School\\computerSience\\AppZicaron\\AppZicaron\\IndexableButton.cs",
+              "RelativeDocumentMoniker": "AppZicaron\\IndexableButton.cs",
+              "ToolTip": "C:\\ofir\\School\\computerSience\\AppZicaron\\AppZicaron\\IndexableButton.cs",
+              "RelativeToolTip": "AppZicaron\\IndexableButton.cs",
+              "ViewState": "AQIAAD0AAAAAAAAAAAAhwDgAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T17:23:47.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainActivity.cs",
+              "DocumentMoniker": "C:\\ofir\\School\\computerSience\\AppZicaron\\AppZicaron\\MainActivity.cs",
+              "RelativeDocumentMoniker": "AppZicaron\\MainActivity.cs",
+              "ToolTip": "C:\\ofir\\School\\computerSience\\AppZicaron\\AppZicaron\\MainActivity.cs",
+              "RelativeToolTip": "AppZicaron\\MainActivity.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAzwA4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T17:23:47.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GameActivity.cs",
+              "DocumentMoniker": "C:\\ofir\\School\\computerSience\\AppZicaron\\AppZicaron\\GameActivity.cs",
+              "RelativeDocumentMoniker": "AppZicaron\\GameActivity.cs",
+              "ToolTip": "C:\\ofir\\School\\computerSience\\AppZicaron\\AppZicaron\\GameActivity.cs",
+              "RelativeToolTip": "AppZicaron\\GameActivity.cs",
+              "ViewState": "AQIAAEEAAAAAAAAAAAAhwE0AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T17:23:47.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "game_layout.axml",
+              "DocumentMoniker": "C:\\ofir\\School\\computerSience\\AppZicaron\\AppZicaron\\Resources\\layout\\game_layout.axml",
+              "RelativeDocumentMoniker": "AppZicaron\\Resources\\layout\\game_layout.axml",
+              "ToolTip": "C:\\ofir\\School\\computerSience\\AppZicaron\\AppZicaron\\Resources\\layout\\game_layout.axml",
+              "RelativeToolTip": "AppZicaron\\Resources\\layout\\game_layout.axml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-04-23T17:24:06.606Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
